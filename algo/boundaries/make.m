@@ -1,0 +1,2 @@
+mex disparityBoundariesMex.cpp
+mex occlusionBoundariesMex.cpp
